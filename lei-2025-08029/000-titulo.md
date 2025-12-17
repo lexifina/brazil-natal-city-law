@@ -1,0 +1,2 @@
+# LEI Nº 8.029, de 16 de dezembro de 2025 Institui a Semana Municipal de Educação e Inteligência Artificial (IA) nas escolas públicas de Natal, a ser realizada anualmente, com o objetivo de promover o conhecimento, a inovação e o uso pedagógico da Inteligência Artificial no ambiente educacional.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
