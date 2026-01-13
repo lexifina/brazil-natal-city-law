@@ -1,0 +1,2 @@
+# LEI Nº 8.038, de 12 de janeiro de 2026 Dispõe sobre a regulamentação do uso de espaços públicos durante o período da tradicional Festa de Reis no perímetro do Santuário arquidiocesano dos Santos Reis, condicionando a autorização municipal à expressa validação da Paróquia responsável no âmbito do Município de Natal e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
