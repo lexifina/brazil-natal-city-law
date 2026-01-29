@@ -1,0 +1,2 @@
+# LEI Nº 8.049. de 29 de janeiro de 2026 Dispõe sobre a reserva de cota mínima de 15% (quinze por cento) dos espaços destinados a expositores em feiras e eventos realizados, apoiados, patrocinados, convidados ou em que o Município de Natal/RN possua direito a espaço por obrigatoriedade legal, em favor de pessoas com deficiência (PCDs) e de seus familiares até o 2º grau, estabelece critérios de participação e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
