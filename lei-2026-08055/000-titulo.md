@@ -1,0 +1,2 @@
+# LEI Nº 8.055, de 02 de fevereiro de 2026 Dispõe sobre regras de conduta para torcedores e medidas de segurança em competições desportivas infantojuvenis não profissionais e em jogos escolares promovidos por instituições de ensino ou pelo Poder Público no Município do Natal e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
