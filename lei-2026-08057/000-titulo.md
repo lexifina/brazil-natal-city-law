@@ -1,0 +1,2 @@
+# LEI Nº 8.057, de 03 de fevereiro de 2026 Altera dispositivos da Lei nº 6.304, de 7 de novembro de 2011, que dispõe sobre a reestruturação da Assessoria Jurídica Municipal, para instituir o Adicional por Titulação e promover reajuste no vencimento básico dos Assessores Jurídicos Municipais, e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
