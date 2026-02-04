@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 274, de 03 de fevereiro de 2026 Cria cargos efetivos de Professor no âmbito da Secretaria Municipal de Educação do Município de Natal, vincula-os à Carreira de Professor instituída pela Lei Complementar nº 241, de 19 de janeiro de 2024, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei Complementar:
