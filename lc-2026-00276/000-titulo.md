@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 276, de 23 de março de 2026 Altera dispositivos das Leis Complementares nº 252, de 26 de dezembro de 2024, nº 119, de 3 de dezembro de 2010, e nº 229, de 6 de julho de 2023, para ampliar as atribuições da Central de Compras Públicas, incluir as licitações de obras públicas e serviços de engenharia, disciplinar as gratificações por atividade de agente de contratação e por atividade de equipe de apoio, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei Complementar:
