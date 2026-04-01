@@ -1,0 +1,2 @@
+# LEI Nº 8.080, de 31 de março de 2026 Institui o "Programa Educação + Trabalho" no município de Natal/RN, que visa à ampliação da Educação em Tempo Integral nas escolas públicas e à oferta de cursos profissionalizantes para mães e responsáveis legais dos estudantes, com cadastro de empresas parceiras para inserção no mercado de trabalho.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
