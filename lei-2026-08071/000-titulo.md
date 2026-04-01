@@ -1,0 +1,2 @@
+# LEI Nº 8.071, de 31 de março de 2026 LEI Nº_______________________________ Dispõe sobre o retorno dos servidores ocupantes do cargo de Agente de Mobilidade Urbana aos respectivos cargos de origem, disciplina os efeitos funcionais e remuneratórios dele decorrentes e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
