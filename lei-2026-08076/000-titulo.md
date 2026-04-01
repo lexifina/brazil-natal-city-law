@@ -1,0 +1,2 @@
+# LEI Nº 8.076, de 31 de março de 2026 Reconhece a arte marcial "Godai Ju Jutsu Do", caminho da arte suave, como filosofia de vida baseado nos cinco grandes princípios (energia, suavidade, harmonia, caminho e fraternidade), como Patrimônio Cultural Imaterial do Município de Natal, e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
