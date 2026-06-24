@@ -1,0 +1,2 @@
+# LEI Nº 8.144, de 23 de junho de 2026 Institui o Programa Música na Escola no âmbito da rede municipal de ensino do Município de Natal/RN, com a oferta de aulas de música, estímulo à criação de bandas e realização do intervalo musical como forma de promover a interação social, o desenvolvimento cognitivo e a redução do uso excessivo de telas e redes sociais nos intervalos escolares, e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
