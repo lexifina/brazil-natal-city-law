@@ -1,0 +1,2 @@
+# LEI Nº 8.184, de 22 de julho de 2026 Dispõe sobre o direito de instalação de estações de recarga para veículos elétricos em edificações consignadas ao regime de condomínio edilício, estabelece a obrigatoriedade de previsão de capacidade elétrica em novos empreendimentos imobiliários, institui diretrizes para programas de incentivo à infraestrutura de eletromobilidade, e dá outras providências.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
