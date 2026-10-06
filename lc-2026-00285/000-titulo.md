@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 285, de 05 de outubro de 2026 Dispõe sobre a conversão de multas ambientais e urbanísticas para execução de planos, programas e projetos voltados à realização de serviços de preservação, melhoria e recuperação da qualidade do meio ambiente ou melhoria da qualidade urbana no Município do Natal.
+O PRESIDENTE DA CÂMARA MUNICIPAL DO NATAL, FAÇO SABER que a Câmara Municipal do Natal aprovou e eu sanciono a seguinte Lei Complementar:
