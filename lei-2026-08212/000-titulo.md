@@ -1,0 +1,2 @@
+# LEI Nº 8.212, de 05 de Outubro de 2026 Altera dispositivos da Lei nº 6.013, de 09 de dezembro de 2009, para incluir a Federação do Comércio de Bens, Serviços e Turismo do Rio Grande do Norte - FECOMERCIO entre os membros que compõem o Plenário do Conselho da Cidade do Natal - CONCIDADE/NATAL.
+O PREFEITO MUNICIPAL DE NATAL FAÇO SABER que a Câmara Municipal de Natal aprovou e eu sanciono a seguinte Lei:
