@@ -1,0 +1,2 @@
+# LEI Nº 8.211, de 24 de Setembro de 2026 Dispõe sobre o pagamento do incentivo financeiro dos componentes de qualidade e de vínculo e acompanhamento territorial, bem como do incentivo adicional anual do componente de qualidade da Atenção Primária à Saúde aos servidores públicos integrantes das equipes da APS no âmbito do Sistema Único de Saúde - SUS, no Município do Natal, e dá outras providências.
+O PREFEITO MUNICIPAL DO NATAL FAÇO SABER que a Câmara Municipal do Natal aprovou e eu sanciono a seguinte Lei:
