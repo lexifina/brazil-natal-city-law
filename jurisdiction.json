@@ -1,0 +1,9 @@
+{
+  "path": "br-rn-natal",
+  "code": "BR-RN-NATAL",
+  "name": "Natal (city)",
+  "level": "municipality",
+  "parent": "br-rn",
+  "repo": "https://github.com/lexifina/brazil-natal-city-law",
+  "build": "built: the Lei Orgânica of Natal, from the Câmara Municipal's updated edition"
+}

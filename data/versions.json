@@ -1,0 +1,19 @@
+{
+ "country": "BR-RN-NATAL",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Natal",
+   "title": "Lei Orgânica do Município do Natal",
+   "url": "https://sapl.natal.rn.leg.br/norma/193",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 203,
+     "source_url": "http://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/1990/193/lei_organica_atualizada.pdf",
+     "sha256": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d"
+    }
+   ]
+  }
+ ]
+}
