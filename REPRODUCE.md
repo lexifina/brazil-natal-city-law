@@ -1,12 +1,12 @@
 # How this repository was made (Natal)
 
-This file is written by the build on 2026-10-31, the day the source data was retrieved.
+This file is written by the build on 2026-11-04, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Câmara Municipal do Natal, SAPL: Lei Orgânica do Município, texto atualizado (PDF) | <https://sapl.natal.rn.leg.br/norma/193> | 2026-10-31 | Text: Câmara Municipal do Natal, SAPL, Lei Orgânica do Município do Natal (texto atualizado), sapl.natal.rn.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal do Natal, SAPL: Lei Orgânica do Município, texto atualizado (PDF) | <https://sapl.natal.rn.leg.br/norma/193> | 2026-11-04 | Text: Câmara Municipal do Natal, SAPL, Lei Orgânica do Município do Natal (texto atualizado), sapl.natal.rn.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -25,7 +25,7 @@ The build made 1 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
 - 1 tags.
@@ -40,13 +40,13 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `814ef6e34ac266fd5698a48f30ad1b7b2f5d6e071fa4983291975e6eeb22d7d5` (177515 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `f1caf2e3aba16fc23fdf730b82eb10c6523248d67c6da843e01110eef3a03fe4` (177515 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1 versions of 1 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
