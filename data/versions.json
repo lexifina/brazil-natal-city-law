@@ -1148,6 +1148,552 @@
      "sha256": "93324150740efa619f324b2c51560e946ccc2d5f61507410efa6523c07d1e70c"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-08131",
+   "short": "Lei 8131/2026",
+   "title": "Lei nº 8.131, de 3 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9296",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9296/lei_no_8.131_2026.pdf",
+     "sha256": "568c37118f0cbacad9d4f45a9d7ce9858cba4deb574faca8849fc066dc205bd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08130",
+   "short": "Lei 8130/2026",
+   "title": "Lei nº 8.130, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9294",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9294/lei_no_8.130_2026.pdf",
+     "sha256": "2c8dd58eea645dd26d153c8a5715280b1d27e056dfb9fe0a65c4dc1e4e1ffea8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08129",
+   "short": "Lei 8129/2026",
+   "title": "Lei nº 8.129, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9293",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9293/lei_no_8.129_2026.pdf",
+     "sha256": "5439f1869281bbca09906ddefa8bbdf5e4696ba05879aaf6078f17a3fc63dd83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08128",
+   "short": "Lei 8128/2026",
+   "title": "Lei nº 8.128, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9292",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9292/lei_no_8.128_2026.pdf",
+     "sha256": "7543d4d0f66d878f8c18160ff52b47325463bde17d778d1af450ce92de7209b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08127",
+   "short": "Lei 8127/2026",
+   "title": "Lei nº 8.127, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9291",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9291/lei_no_8.127_2026.pdf",
+     "sha256": "1f9ac90639a48227d607127e5a28932703189b5b1e809b7162fe6db47c265053"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08126",
+   "short": "Lei 8126/2026",
+   "title": "Lei nº 8.126, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9290",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9290/lei_no_8.126_2026.pdf",
+     "sha256": "8b5f36a143cbd8d419f8557a94a8494eb1478f2fa5c91f4d87536aa5e1313d53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08125",
+   "short": "Lei 8125/2026",
+   "title": "Lei nº 8.125, de 1 de junho de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9289",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9289/lei_no_8.125_2026.pdf",
+     "sha256": "3406ab7d45e97690b6453b294911f535020e2f2f09e886c917d6a5b9c8bb3084"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08124",
+   "short": "Lei 8124/2026",
+   "title": "Lei nº 8.124, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9286",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9286/lei_no_8.124_2026.pdf",
+     "sha256": "e29609cd5729191189874d8af9691a65173180b5d2cefdfdb35e5d2cc4f7a728"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08123",
+   "short": "Lei 8123/2026",
+   "title": "Lei nº 8.123, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9285",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9285/lei_no_8.123_2026.pdf",
+     "sha256": "bb67931f9217858c63afa5c0c5e0201c25553bfba5588cf0f28041782dd62e7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08122",
+   "short": "Lei 8122/2026",
+   "title": "Lei nº 8.122, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9284",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9284/lei_no_8.122_2026.pdf",
+     "sha256": "f6d93731670c5f11f35024b93c86687bb437fb7955e3d74a9998d9f14cd3c4df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08121",
+   "short": "Lei 8121/2026",
+   "title": "Lei nº 8.121, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9283",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9283/lei_no_8.121_2026.pdf",
+     "sha256": "cdacf19ced1fc86fb0361876daa4071e6f2ecbfb07a4ee1c390f25ab8de0d1f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08120",
+   "short": "Lei 8120/2026",
+   "title": "Lei nº 8.120, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9282",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9282/lei_no_8.120_2026.pdf",
+     "sha256": "c2f409bf7e8ee3dcf727d964a51c1b56bc16d9a51b2220915d61f11fe9920b46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08118",
+   "short": "Lei 8118/2026",
+   "title": "Lei nº 8.118, de 26 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9280",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9280/lei_no_8.118_2026.pdf",
+     "sha256": "d4d0798ccba53d9035eb21390083bd5ecf92eff45a633bb41451861d09f6f09e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08117",
+   "short": "Lei 8117/2026",
+   "title": "Lei nº 8.117, de 22 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9279",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9279/lei_no_8.117_2026.pdf",
+     "sha256": "667c45d847ec664b9a92cf4bb01883b2d921a99e1bb621e37a7a5cf113440551"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08116",
+   "short": "Lei 8116/2026",
+   "title": "Lei nº 8.116, de 22 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9278",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9278/lei_no_8.116_2026.pdf",
+     "sha256": "dbb4e708e19fb81b1e80a59fa86066431e043a9b359b79e2ac8d55ba3deb7cc3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08115",
+   "short": "Lei 8115/2026",
+   "title": "Lei nº 8.115, de 22 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9277",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9277/lei_no_8.115_2026.pdf",
+     "sha256": "306bdd24046efbb05f598e3bf62c03d0a0163c16be975203393fc150d4afc6df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08114",
+   "short": "Lei 8114/2026",
+   "title": "Lei nº 8.114, de 22 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9276",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9276/lei_no_8.114_2026.pdf",
+     "sha256": "da2310d35e970b065fb9ed76ed5e5a6fa3fd499d06093af79fc2e4fa0018a7e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08112",
+   "short": "Lei 8112/2026",
+   "title": "Lei nº 8.112, de 20 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9271",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9271/lei_no_8.112_2026.pdf",
+     "sha256": "e559cad496da053596280daa0fd2fd1e53cde162cf37f9ab05223e320c851e4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08111",
+   "short": "Lei 8111/2026",
+   "title": "Lei nº 8.111, de 14 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9267",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 14,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9267/lei_no_8.111_2026.pdf",
+     "sha256": "61875b4429637d74a397122c4c83c137ab04600c05a9cde5e798158b0cdeeba8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08110",
+   "short": "Lei 8110/2026",
+   "title": "Lei nº 8.110, de 14 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9266",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 11,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9266/lei_no_8.110_2026.pdf",
+     "sha256": "08e02c888ef4e1879a2234422d58596ca6e4ff0ce3bd8aa3740ef47f87a8741e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08107",
+   "short": "Lei 8107/2026",
+   "title": "Lei nº 8.107, de 11 de maio de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9263",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9263/lei_no_8.107_2026.pdf",
+     "sha256": "1c5498aabe8291fbf74fd04f46fab709f8e45b42adaaae0c90c8f34e7a1f237b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08106",
+   "short": "Lei 8106/2026",
+   "title": "Lei nº 8.106, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9258",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9258/lei_no_8.106_2026.pdf",
+     "sha256": "de20a60aebba464dd143632f245577ffa3ee607ff652a8ca44d6dd69aae7dc22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08105",
+   "short": "Lei 8105/2026",
+   "title": "Lei nº 8.105, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9259",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9259/lei_no_8.105_2026.pdf",
+     "sha256": "67c222ad5b89b93f312401ba189a533abba166b76f08a3382f2664333cb72fe8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08104",
+   "short": "Lei 8104/2026",
+   "title": "Lei nº 8.104, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9257",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9257/lei_no_8.104_2026.pdf",
+     "sha256": "9f8a95bce786aedea0113ae7f1bb0c8002174a07996615e99f1caaa0ab4bfc30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08103",
+   "short": "Lei 8103/2026",
+   "title": "Lei nº 8.103, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9256",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9256/lei_no_8.103_2026.pdf",
+     "sha256": "73a5fba9589d096edf4b44a476c97c93f6b118f0cd0fd59cc43a8e7ccf09d377"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08102",
+   "short": "Lei 8102/2026",
+   "title": "Lei nº 8.102, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9255",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9255/lei_no_8.102_2026.pdf",
+     "sha256": "754ece5e41d9dedbacf6c129cde7041b905fba911c8fa57cc930eab9f8a973ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08101",
+   "short": "Lei 8101/2026",
+   "title": "Lei nº 8.101, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9254",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 11,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9254/lei_no_8.101_2026.pdf",
+     "sha256": "1e91ab4711da3531aaefd3ad01b15e0f19b02bda7b3b352df0121e10cd73edc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08100",
+   "short": "Lei 8100/2026",
+   "title": "Lei nº 8.100, de 30 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9253",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 9,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9253/lei_no_8.100_2026.pdf",
+     "sha256": "ce06e47b79a8b7a04034821d1e8f00b4dab7a9d79b389f8113fdd17239602685"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08099",
+   "short": "Lei 8099/2026",
+   "title": "Lei nº 8.099, de 29 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9251",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9251/lei_no_8.099_2026.pdf",
+     "sha256": "f68a1756cf6a8af9cffe181ebc7bb02b963c889f03ad7bd999a6a194111985ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08098",
+   "short": "Lei 8098/2026",
+   "title": "Lei nº 8.098, de 29 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9250",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9250/lei_no_8.098_2026.pdf",
+     "sha256": "ed2d55969e034ef04c3de58a6754e5768020859417ce4b22764506a6e96044f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08097",
+   "short": "Lei 8097/2026",
+   "title": "Lei nº 8.097, de 29 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9249",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9249/lei_no_8.097_2026.pdf",
+     "sha256": "b1d1bc14f3f6040227f12128a5ef7a4edbf23183f048e6057e29affb935924b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08096",
+   "short": "Lei 8096/2026",
+   "title": "Lei nº 8.096, de 29 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9247",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9247/lei_no_8.096_2026.pdf",
+     "sha256": "49d8f566d04c341533010e765aa41e6e178a101f9e8eef03276b7290d8fec26b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08094",
+   "short": "Lei 8094/2026",
+   "title": "Lei nº 8.094, de 23 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9103",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9103/lei_no_8.094_2026.pdf",
+     "sha256": "73fbe9e0a21d359ca068223d42ebe011f3c86724e92b903a59eb44dec7621d53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08092",
+   "short": "Lei 8092/2026",
+   "title": "Lei nº 8.092, de 23 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9101",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9101/lei_no_8.092_2026.pdf",
+     "sha256": "eb3c497160eff067268adbe0582abfb99731480bf57cc7460f2f881a9dd979f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08091",
+   "short": "Lei 8091/2026",
+   "title": "Lei nº 8.091, de 23 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9100",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9100/lei_no_8.091_2026.pdf",
+     "sha256": "c10fb1376e67284e330d461b6ae5daee97d7f16f1204d474711363c634b0fb01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08090",
+   "short": "Lei 8090/2026",
+   "title": "Lei nº 8.090, de 23 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9099",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9099/lei_no_8.090_2026.pdf",
+     "sha256": "5a09e9a72626deeddd3c956c884beaa63822b457fce181fed49310cc86e52de0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08089",
+   "short": "Lei 8089/2026",
+   "title": "Lei nº 8.089, de 15 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9095",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 35,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9095/lei_no_8.089_2026.pdf",
+     "sha256": "d0c25ee467f7a8353143c2547f23640a326ae2432a5201c43998bf71a37c2227"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08088",
+   "short": "Lei 8088/2026",
+   "title": "Lei nº 8.088, de 15 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9094",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9094/lei_no_8.088_2026.pdf",
+     "sha256": "47d4bc6a7fcdd234c4f6ca9e817cc45467427135199f3faa98a3246a30f8dbe2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08087",
+   "short": "Lei 8087/2026",
+   "title": "Lei nº 8.087, de 15 de abril de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9093",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9093/lei_no_8.087_2026.pdf",
+     "sha256": "2527e9533430c3e906fdd64c601d21e793df1fa89da5948b20c144fb2e5f0f4a"
+    }
+   ]
   }
  ]
 }
