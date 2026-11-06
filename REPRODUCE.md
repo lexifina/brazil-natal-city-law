@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Natal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.natal.rn.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Natal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.natal.rn.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Natal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.natal.rn.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Natal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.natal.rn.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Natal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.natal.rn.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Natal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.natal.rn.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Natal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.natal.rn.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Natal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.natal.rn.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -184,20 +185,48 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-08043` | Lei nº 8.043, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
 | `lei-2026-08042` | Lei nº 8.042, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
 | `lei-2026-08041` | Lei nº 8.041, de 29 de janeiro de 2026 | 1 | 2026-01-29 to 2026-01-29 |
+| `lei-2026-08040` | Lei nº 8.040, de 12 de janeiro de 2026 | 1 | 2026-01-13 to 2026-01-13 |
+| `lei-2026-08039` | Lei nº 8.039, de 12 de janeiro de 2026 | 1 | 2026-01-13 to 2026-01-13 |
+| `lei-2026-08038` | Lei nº 8.038, de 12 de janeiro de 2026 | 1 | 2026-01-13 to 2026-01-13 |
+| `lei-2025-08036` | Lei nº 8.036, de 29 de dezembro de 2025 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2025-08035` | Lei nº 8.035, de 24 de dezembro de 2025 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2025-08034` | Lei nº 8.034, de 23 de dezembro de 2025 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2025-08032` | Lei nº 8.032, de 23 de dezembro de 2025 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2025-08031` | Lei nº 8.031, de 23 de dezembro de 2025 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2025-08030` | Lei nº 8.030, de 17 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08029` | Lei nº 8.029, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08028` | Lei nº 8.028, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08027` | Lei nº 8.027, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08026` | Lei nº 8.026, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08025` | Lei nº 8.025, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08024` | Lei nº 8.024, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08023` | Lei nº 8.023, de 16 de dezembro de 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2025-08022` | Lei nº 8.022, de 16 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lc-2025-00272` | Lei Complementar nº 272, de 16 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lc-2025-00271` | Lei Complementar nº 271, de 16 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lei-2025-08021` | Lei nº 8.021, de 15 de dezembro de 2025 | 1 | 2025-12-16 to 2025-12-16 |
+| `lc-2025-00270` | Lei Complementar nº 270, de 11 de dezembro de 2025 | 1 | 2025-12-12 to 2025-12-12 |
+| `lei-2025-08020` | Lei nº 8.020, de 5 de dezembro de 2025 | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-2025-08019` | Lei nº 8.019, de 5 de dezembro de 2025 | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-2025-08018` | Lei nº 8.018, de 5 de dezembro de 2025 | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-2025-08017` | Lei nº 8.017, de 1 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-08016` | Lei nº 8.016, de 1 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-08015` | Lei nº 8.015, de 1 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-08014` | Lei nº 8.014, de 1 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
 
-The build made 166 commits:
+The build made 194 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 166 | first version of an act |
+| 194 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 166 laws in the record.
-- 331 tags.
+- 194 laws in the record.
+- 387 tags.
 
 ## Dates
 
@@ -209,13 +238,13 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6ac3a81bc17c1e5ebd571d6571fb1e9ee020d9aedf4a51a8d2df4d0826d6fbc2` (978537 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `0fad90cf931c453951234ecf904d05ee79f3ec7e`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `20e4684f9357ecc06dc775b6529508d21d11835711ef59c92555a78ae637f221` (1119778 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-166 versions of 166 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -224,6 +253,9 @@ No second build of this corpus has been compared yet.
 - The Lei Orgânica is given only as the Câmara's updated edition in its SAPL, credited to the Câmara as the oldest version available and dated by the latest date among the amendments its notes cite. The text as promulgated on 3 April 1990 and the wordings the amendments replaced are not reconstructed.
 - Only the Lei Orgânica is taken from the PDF: from "PREÂMBULO" to the "Natal, 3 de abril de 1990." that closes the transitional provisions (the signatures after the main text stay with its last article); the cover, the table of contents, page numbers, the signatures at the end and the texts of the amendments and court decisions printed after it are left out, as are the notes in parentheses ("(Redação conferida pela Emenda à Lei Orgânica nº ...)", "(Incluído pela ...)", "(*Invalidado pela ADI ...)" and other notes starting with "*"). Provisions a court invalidated stay in the text as the edition prints them.
 - Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; headings stand above the first article under them; the Ato das Disposições Transitórias, numbered from 1 again, is adt-*.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
@@ -247,6 +279,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's PDF.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.

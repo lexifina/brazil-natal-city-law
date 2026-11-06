@@ -2324,6 +2324,398 @@
      "sha256": "5cf311463200ecbe7b44270837361bc488c47e24dc6473ff193d428efb774215"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-08040",
+   "short": "Lei 8040/2026",
+   "title": "Lei nº 8.040, de 12 de janeiro de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9029",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9029/lei_no_8.040_2026.pdf",
+     "sha256": "9f635bab5b9ebd4f5c983930dd446ac6789217214714a5d9b3a62949281b2608"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08039",
+   "short": "Lei 8039/2026",
+   "title": "Lei nº 8.039, de 12 de janeiro de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9028",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9028/lei_no_8.039_2025.pdf",
+     "sha256": "9cb5719055187869366e206d8ca1b42acc27e9edc8b6f8a89df99928a79b13e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-08038",
+   "short": "Lei 8038/2026",
+   "title": "Lei nº 8.038, de 12 de janeiro de 2026",
+   "url": "https://sapl.natal.rn.leg.br/norma/9027",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 11,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2026/9027/lei_no_8.038_2025.pdf",
+     "sha256": "9ea00ea7d7c8713a37cd239d09756f19dcacc77e5b8a1cf38c80e0f52773dbc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08036",
+   "short": "Lei 8036/2025",
+   "title": "Lei nº 8.036, de 29 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8992",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8992/lei_no_8.036_2025.pdf",
+     "sha256": "34213a8499b3a22ea861a5bab61243f5035b54f845448179ed2918a2e95a9169"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08035",
+   "short": "Lei 8035/2025",
+   "title": "Lei nº 8.035, de 24 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8991",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8991/lei_no_8.035_2025.pdf",
+     "sha256": "e54911e9f8366cb565122ec854d886e17a41b0852dee04007b4e6bd92b997855"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08034",
+   "short": "Lei 8034/2025",
+   "title": "Lei nº 8.034, de 23 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8990",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8990/lei_no_8.034_2025.pdf",
+     "sha256": "58324b9e0eb5f4025c6bee47b15db16b8c5cb2dd5ba3f1d1cf702aa46c960468"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08032",
+   "short": "Lei 8032/2025",
+   "title": "Lei nº 8.032, de 23 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8988",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8988/lei_no_8.032_2025.pdf",
+     "sha256": "53417ef532b5bf4db09cf38bb0a7dc32b8947dd6abc8813d2265a5a7d5f3d2b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08031",
+   "short": "Lei 8031/2025",
+   "title": "Lei nº 8.031, de 23 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8987",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8987/lei_no_8.031_2025.pdf",
+     "sha256": "e69b96ca93f539008f4bbfa0c616824daf4867bf610e348fa10c9d5a54f284f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08030",
+   "short": "Lei 8030/2025",
+   "title": "Lei nº 8.030, de 17 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8986",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8986/lei_no_8.030_2025.pdf",
+     "sha256": "99a6100b0efbe419802ed1cd118a04e073be62de9d58605c9268a3744d2a9773"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08029",
+   "short": "Lei 8029/2025",
+   "title": "Lei nº 8.029, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8985",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8985/lei_no_8.029_2025.pdf",
+     "sha256": "a2caa1cef67737000fcdc236d7771b7f504546da9bc8560b4fbddb678b1e959d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08028",
+   "short": "Lei 8028/2025",
+   "title": "Lei nº 8.028, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8984",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8984/lei_no_8.028_2025.pdf",
+     "sha256": "9b6833109544b1839b26ab093c00910be8efd3bf8c3729bea2322647a87750b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08027",
+   "short": "Lei 8027/2025",
+   "title": "Lei nº 8.027, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8983",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8983/lei_no_8.027_2025.pdf",
+     "sha256": "5d457f3d66012a3b60c9a3f8073b32422c7836474d5a41c77ab80a877f9e23b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08026",
+   "short": "Lei 8026/2025",
+   "title": "Lei nº 8.026, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8982",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8982/lei_no_8.026_2025.pdf",
+     "sha256": "d34100ec125a0df720e521fcd0afbdd859a341b5d065cf9bf8abda3127a2aa40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08025",
+   "short": "Lei 8025/2025",
+   "title": "Lei nº 8.025, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8981",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 9,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8981/lei_no_8.025_2025.pdf",
+     "sha256": "b96d20285460e86941ba7cf18d6f9ae2e6ffe3eef470dc313c11c29175cb7cc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08024",
+   "short": "Lei 8024/2025",
+   "title": "Lei nº 8.024, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8979",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8979/lei_no_8.024_2025.pdf",
+     "sha256": "1067d12fd6a68e9d3340fd8c6a14bade69e461535f14c551a659cc9384924c43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08023",
+   "short": "Lei 8023/2025",
+   "title": "Lei nº 8.023, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8978",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 6,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8978/lei_no_8.023_2025.pdf",
+     "sha256": "c6fb7a2a6d73c2ebffa856bda6ee1834c1413b95422820237e0b6b07342007b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08022",
+   "short": "Lei 8022/2025",
+   "title": "Lei nº 8.022, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8977",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 13,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8977/lei_no_8.022_2025.pdf",
+     "sha256": "e2a519dc83cb0c5920c6faf65aeca78c9d2a67784f00ee9a689deb885ed1e700"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00272",
+   "short": "LC 272/2025",
+   "title": "Lei Complementar nº 272, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8980",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 16,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8980/lei_complementar_no_272_2025.pdf",
+     "sha256": "6628a7d52ab7fad0a6b50596daeb5d231e53bf2c68d2eb0ccd0e70ebc4951b95"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00271",
+   "short": "LC 271/2025",
+   "title": "Lei Complementar nº 271, de 16 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8975",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 13,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8975/lei_complementar_no_271_2025.pdf",
+     "sha256": "b9017fb398be7f2c80401fdf6694212e630822fab8022fb4cedef4ddc4eaae87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08021",
+   "short": "Lei 8021/2025",
+   "title": "Lei nº 8.021, de 15 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8976",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8976/lei_no_8.021_2025.pdf",
+     "sha256": "0f23d574fec9f682ab0c9f70b2fe9073a66fce7137494df146dc4bba3efba9b4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00270",
+   "short": "LC 270/2025",
+   "title": "Lei Complementar nº 270, de 11 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8974",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 7,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8974/lei_complementar_no_270_2025.pdf",
+     "sha256": "79ff6e445cb30ccc1ac6e189eb55033e3b8c7a24847f7bd7cef2a6d2a72d5cf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08020",
+   "short": "Lei 8020/2025",
+   "title": "Lei nº 8.020, de 5 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8973",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8973/lei_no_8.020_2025.pdf",
+     "sha256": "7d12895143032bab7c5fa4fa754c000232f4861a966a311e16f4e8eddee1cb3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08019",
+   "short": "Lei 8019/2025",
+   "title": "Lei nº 8.019, de 5 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8972",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 5,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8972/lei_no_8.019_2025.pdf",
+     "sha256": "6a5ee3177d13a82582dc5de3a538ef62666ed694412968d3980e3855f2ceef6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08018",
+   "short": "Lei 8018/2025",
+   "title": "Lei nº 8.018, de 5 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8971",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 12,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8971/lei_no_8.018_2025.pdf",
+     "sha256": "e682b10650360e2f10f4aa5bf956ee2a0b1f10b3b4a7e168101d05337db83e90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08017",
+   "short": "Lei 8017/2025",
+   "title": "Lei nº 8.017, de 1 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8966",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 4,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8966/lei_no_8.017_2025.pdf",
+     "sha256": "a11da380c29c0bf73a86654dd0420028dad1b0c56336bbb75c9cd27afcf7e37e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08016",
+   "short": "Lei 8016/2025",
+   "title": "Lei nº 8.016, de 1 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8965",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8965/lei_no_8.016_2025.pdf",
+     "sha256": "60b7c2a512ac769d0bd48048b3b7528c1fa7a17964cd8f5e227ccb8736d44359"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08015",
+   "short": "Lei 8015/2025",
+   "title": "Lei nº 8.015, de 1 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8964",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 8,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8964/lei_no_8.015_2025.pdf",
+     "sha256": "7664efcb66b48bd2c2b547563a8251ecf95277242c413c866b55951ce435fa4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-08014",
+   "short": "Lei 8014/2025",
+   "title": "Lei nº 8.014, de 1 de dezembro de 2025",
+   "url": "https://sapl.natal.rn.leg.br/norma/8963",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 3,
+     "source_url": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/2025/8963/lei_no_8.014_2025.pdf",
+     "sha256": "956008dc8d4c17afabf8c1c3adc3b0e130d219ea3afa8d994f6ed3ebbf482233"
+    }
+   ]
   }
  ]
 }
